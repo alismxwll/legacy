@@ -1,0 +1,3 @@
+def legacy(hash)
+
+end
